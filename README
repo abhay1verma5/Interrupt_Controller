@@ -1,5 +1,4 @@
-Simple Interrupt Controller
-    Author: Aditya Shevade <aditya.shevade@gmail.com>
+
 ===============================================================================
 
     This is a simple 8 input interrupt controller.
